@@ -1,5 +1,10 @@
-# react-basic-authentication-example
+# blogServer
+client side of my blog app
 
-React - Basic HTTP Authentication Tutorial & Example
+# Register and Login: 
 
-To see a demo and further details go to http://jasonwatmore.com/post/2018/09/11/react-basic-http-authentication-tutorial-example
+![](/project.gif)
+
+# Home, Adding Posts (remove and edit)
+
+![](/project2.gif)
