@@ -1,4 +1,4 @@
-# blogServer
+# blogClient
 client side of my blog app
 
 # Register and Login: 
