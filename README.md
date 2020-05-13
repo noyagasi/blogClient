@@ -1,10 +1,10 @@
-# blogClient
-client side of my blog app
+# Blog Client
 
-# Register and Login: 
+Bootstrap-based client. Built on top of React frontend. 
 
-![](/project.gif)
+## Blog Website
+https://noyag.herokuapp.com/
 
-# Home, Adding Posts (remove and edit)
-
-![](/project2.gif)
+## Functionality
+1. User can Register and Sign in
+2. User can CRUD posts (Create, Read, Update and Delete)
